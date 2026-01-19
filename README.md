@@ -9,6 +9,10 @@ Instructions:
 2.  Copy the file(s) you want into the "LicensePlate" directory.
 3.  Insert USB stick into the *glove compartment* USB drive (this is traditional USB, not the newer USB-C).
 4.  On screen, just spin the visualization of your car to see the license plate on the rear. Tap that.
+    (You can also access this through Toybox > Paint Shop)
+
+A good video (from UK) showing how to change the visualization:
+https://youtu.be/rGBkfMST4Bs?si=3KtIuoudj8HdqjQP
    
 You should be able to change the characters and upload a background image from the USB drive.
 
